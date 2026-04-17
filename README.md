@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Kunal Mendapara
-### Backend Developer | Spring Boot Specialist
+### Backend Developer
   
 Building scalable backend systems with a focus on clean architecture, secure APIs, and real-world problem solving.
 
@@ -21,7 +21,7 @@ Building scalable backend systems with a focus on clean architecture, secure API
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
@@ -76,10 +76,9 @@ Building scalable backend systems with a focus on clean architecture, secure API
 
 ## 🔭 Currently Mastering
 
-- 🔐 **Advanced Spring Security** (OAuth2, Custom Filters)
+- 🔐 **Advanced Spring Security** (Custom Filters)
 - 🏗️ **Microservices Architecture** (Service Discovery, API Gateways)
-- 📊 **Scalable System Design** (Caching, Load Balancing)
-- 🧠 **Data Structures & Algorithms** (Solving daily on LeetCode)
+- 🧠 **Data Structures & Algorithms** (Solving problems on LeetCode)
 
 ---
 
@@ -89,9 +88,3 @@ Building scalable backend systems with a focus on clean architecture, secure API
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalM54&show_icons=true&theme=transparent&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalM54&layout=compact&theme=transparent&hide_border=true" />
 </p>
-
----
-
-<div align="center">
-  <i>"Writing clean, maintainable code is not a choice, it's a responsibility."</i>
-</div>
