@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Kunal Mendapara
-### Backend Developer | Spring Boot Specialist
+### Backend Developer
   
 Building scalable backend systems with a focus on clean architecture, secure APIs, and real-world problem solving.
 
