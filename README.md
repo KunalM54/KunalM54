@@ -1,102 +1,97 @@
-# Kunal 👋
+<div align="center">
 
-**Java Backend Developer**
+# 👋 Hi, I'm Kunal Mendapara
+### Backend Developer | Spring Boot Specialist
+  
+Building scalable backend systems with a focus on clean architecture, secure APIs, and real-world problem solving.
 
-Building robust and scalable backend systems using Spring Boot. Focused on clean architecture, secure APIs, and maintainable code.
-
----
-
-## 🚀 About Me
-
-* Backend Developer specializing in **Java & Spring Boot**
-* Built multiple real-world backend systems
-* Strong focus on **REST APIs & service-layer design**
-* Currently learning **System Design & Microservices**
-
----
-
-## 🌐 Connect
-
-<p align="left">
-  <a href="mailto:your@email.com">
+<p align="center">
+  <a href="mailto:kunalmendapara@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/kunal-mendapara">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://leetcode.com/u/Kunal_Mendapara/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+### 🛠️ Tech Stack & Tools
 
-### 🚀 Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-
-### 🗄 Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### ⚙️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔹 User Authentication Service
+### 📦 [Courier Management System](https://github.com/KunalM54/Courier-Management-System)
+> *A secure logistics solution with robust authentication.*
+* **Security:** Implemented JWT & Role-Based Access Control (RBAC).
+* **Core:** Full user lifecycle management with Spring Security.
+* **Stack:** Spring Boot, MySQL, JWT.
 
-* JWT Authentication (Access + Refresh Tokens)
-* Role-Based Access Control
-* Spring Security implementation
+### 🛒 [Order Management System](https://github.com/KunalM54/Order-Management-System)
+> *E-commerce backend focusing on automated communications.*
+* **Alerts:** Integrated **Twilio (WhatsApp)** and **Spring Mail** for instant notifications.
+* **Logic:** Automated GST billing (18%) and low-stock alerts.
+* **Reports:** Scheduled daily/weekly automated email reports.
 
----
-
-### 🔹 E-Commerce API
-
-* Product & Order Management
-* Pagination & filtering
-* REST API design
-
----
-
-### 🔹 Task Management System
-
-* Task CRUD operations
-* Scheduling with Spring Scheduler
+### 🏷️ [Sale Campaign Management](https://github.com/KunalM54/Sale-Campaign-Management)
+> *Dynamic pricing engine for retail environments.*
+* **Automation:** Scheduled discount activation/deactivation via Spring Scheduler.
+* **Audit:** Tracks price history and manages batch operations for performance.
+* **API:** Advanced pagination and filtering for high-volume campaign data.
 
 ---
 
-### 🔹 Banking System Backend
+## 📂 More Work
 
-* Fund transfer system
-* Thread-safe transaction handling
-* Transaction history tracking
+<details>
+  <summary><b>View Additional Repositories</b></summary>
+
+| Project | Focus | Link |
+| :--- | :--- | :--- |
+| **Core Banking Services** | Concurrency & Transactions (Pessimistic Locking) | [Repo](https://github.com/KunalM54/Core-Banking-Services) |
+| **Student-Marks Microservice** | Inter-service communication using RestTemplate | [Repo](https://github.com/KunalM54/Student-Marks-Integration-Service) |
+| **House Price Analytics API** | Data Calculations & Location-based analytics | [Repo](https://github.com/KunalM54/House-Price-Analytics-API) |
+| **SQL Indexing Benchmark** | Performance testing with Indexing & Batch Ops | [Repo](https://github.com/KunalM54/Sql-Indexing-Benchmark) |
+| **Quiz Engine** | Interactive session tracking & scoring | [Repo](https://github.com/KunalM54/Quiz-Engine) |
+
+</details>
 
 ---
 
-## 📌 Current Focus
+## 🔭 Currently Mastering
 
-* Advanced Spring Security
-* Microservices Architecture
-* Scalable Backend Design
-* Improving DSA
+- 🔐 **Advanced Spring Security** (OAuth2, Custom Filters)
+- 🏗️ **Microservices Architecture** (Service Discovery, API Gateways)
+- 📊 **Scalable System Design** (Caching, Load Balancing)
+- 🧠 **Data Structures & Algorithms** (Solving daily on LeetCode)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Insights
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalM54&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalM54&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact)
+---
+
+<div align="center">
+  <i>"Writing clean, maintainable code is not a choice, it's a responsibility."</i>
+</div>
