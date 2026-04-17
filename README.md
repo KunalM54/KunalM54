@@ -1,14 +1,15 @@
 <div align="center">
 
 # 👋 Hi, I'm Kunal Mendapara
-### Backend Developer
+### Backend Developer | Spring Boot Specialist
   
 Building scalable backend systems with a focus on clean architecture, secure APIs, and real-world problem solving.
 
 <p align="center">
   <a href="mailto:kunalmendapara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=kunalmendapara@gmail.com&labelCase=none"/>
+</a>
+  <br>
   <a href="https://www.linkedin.com/in/kunal-mendapara">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -79,12 +80,3 @@ Building scalable backend systems with a focus on clean architecture, secure API
 - 🔐 **Advanced Spring Security** (Custom Filters)
 - 🏗️ **Microservices Architecture** (Service Discovery, API Gateways)
 - 🧠 **Data Structures & Algorithms** (Solving problems on LeetCode)
-
----
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalM54&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalM54&layout=compact&theme=transparent&hide_border=true" />
-</p>
