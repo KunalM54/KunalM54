@@ -1,64 +1,54 @@
 # Hi, I'm Kunal 👋
 
-Backend Developer with experience building scalable REST APIs and business applications using Java, Spring Boot, Node.js, Express.js, MongoDB, and MySQL.
+Backend Developer with experience building scalable REST APIs and backend applications using Java, Spring Boot, Node.js, Express.js, MongoDB, and MySQL.
 
-Currently working as a Node.js Backend Developer while continuously expanding my expertise in backend architecture, distributed systems, payment integrations, cloud deployment, and DevOps.
+Currently working as a Node.js Backend Developer and expanding my expertise in backend architecture, distributed systems, payment integrations, cloud deployment, and DevOps.
 
 ---
 
 ## 🚀 Tech Stack
 
-### Backend
-- Java
-- Spring Boot
-- Node.js
-- Express.js
+**Backend:** Java, Spring Boot, Node.js, Express.js
 
-### Databases
-- MongoDB
-- MySQL
+**Databases:** MongoDB, MySQL
 
-### Security & APIs
-- JWT Authentication
-- REST APIs
-- Role-Based Access Control (RBAC)
+**API & Security:** REST APIs, JWT Authentication, RBAC
 
-### Tools
-- Git
-- GitHub
-- Postman
-- Docker (Learning)
-- GitHub Actions (Learning)
+**Tools & Workflow:** Git, GitHub, Postman, Docker
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Node.js Architecture
-- Redis & Caching
-- WebSockets
-- Payment Gateway Integrations
-- Docker & Containerization
-- CI/CD Pipelines
-- Cloud Deployment
-- System Design
+* Advanced Node.js Architecture
+* Redis & Caching
+* WebSockets & Real-Time Systems
+* Payment Gateway Integrations
+* Docker & Containerization
+* CI/CD Pipelines
+* Cloud Infrastructure & Kubernetes
+* System Design
 
 ---
 
-## 📈 Goals for 2026
+## 🎯 Interests
 
-- Build production-grade SaaS applications
-- Master Node.js backend development
-- Learn Kubernetes & Cloud Infrastructure
-- Design scalable distributed systems
+* Backend Engineering
+* Distributed Systems
+* Scalable Application Design
+* Cloud & DevOps
+* Performance Optimization
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/kunal-mendapara
-- Email: kunalmendapara@gmail.com
-- LeetCode: https://leetcode.com/u/Kunal_Mendapara/
+💼 LinkedIn: linkedin.com/in/kunal-mendapara
+
+📧 Email: [kunalmendapara@gmail.com](mailto:kunalmendapara@gmail.com)
+
+🧠 LeetCode: leetcode.com/u/Kunal_Mendapara/
 
 ---
-⭐ Always interested in backend engineering, scalable systems, and learning new technologies.
+
+⭐ Passionate about building reliable backend systems and continuously learning new technologies.
