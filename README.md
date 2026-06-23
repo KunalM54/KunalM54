@@ -1,54 +1,41 @@
-# Hi, I'm Kunal 👋
+# Kunal Mendapara
 
-Backend Developer with experience building scalable REST APIs and backend applications using Java, Spring Boot, Node.js, Express.js, MongoDB, and MySQL.
+### Backend Developer | Java | Spring Boot | Node.js
 
-Currently working as a Node.js Backend Developer and expanding my expertise in backend architecture, distributed systems, payment integrations, cloud deployment, and DevOps.
+Backend developer focused on building secure, scalable REST APIs and structured database systems. Dedicated to writing clean, maintainable code, optimizing performance, and implementing robust server-side logic.
 
----
-
-## 🚀 Tech Stack
-
-**Backend:** Java, Spring Boot, Node.js, Express.js
-
-**Databases:** MongoDB, MySQL
-
-**API & Security:** REST APIs, JWT Authentication, RBAC
-
-**Tools & Workflow:** Git, GitHub, Postman, Docker
+[LinkedIn](https://linkedin.com/in/kunal-mendapara) | [Email](mailto:kunalmendapara@gmail.com) | [LeetCode](https://leetcode.com/u/Kunal_Mendapara/)
 
 ---
 
-## 🌱 Currently Learning
+### Technical Skills
 
-* Advanced Node.js Architecture
-* Redis & Caching
-* WebSockets & Real-Time Systems
-* Payment Gateway Integrations
-* Docker & Containerization
-* CI/CD Pipelines
-* Cloud Infrastructure & Kubernetes
-* System Design
+**Languages and Core** Java, JavaScript, Data Structures & Algorithms
 
----
+**Backend Development** Spring Boot, Node.js, Express.js, REST API Design, JWT Authentication, RBAC
 
-## 🎯 Interests
+**Database Management** MongoDB, MySQL, Caching Concepts
 
-* Backend Engineering
-* Distributed Systems
-* Scalable Application Design
-* Cloud & DevOps
-* Performance Optimization
+**Tools and Workflow** Git, GitHub, Postman, Docker
 
 ---
 
-## 📫 Connect With Me
+### Current Focus
 
-💼 LinkedIn: linkedin.com/in/kunal-mendapara
-
-📧 Email: [kunalmendapara@gmail.com](mailto:kunalmendapara@gmail.com)
-
-🧠 LeetCode: leetcode.com/u/Kunal_Mendapara/
+* **Architecture:** Deepening knowledge of Advanced Node.js Architecture and scalable system design patterns.
+* **Real-Time & Caching:** Implementing Redis for caching and WebSockets for real-time systems.
+* **Integrations:** Mastering secure Payment Gateway Integrations.
+* **DevOps & Cloud:** Exploring Containerization (Docker), Kubernetes, and setting up automated CI/CD Pipelines.
 
 ---
 
-⭐ Passionate about building reliable backend systems and continuously learning new technologies.
+### Tech Stack Summary
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Language** | Java, JavaScript |
+| **Frameworks** | Spring Boot, Express.js |
+| **Runtime** | Node.js |
+| **Database** | MongoDB, MySQL |
+| **API & Security** | REST, JWT, RBAC |
+| **DevOps & Tools** | Git, GitHub, Postman, Docker |
